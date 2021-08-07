@@ -3,42 +3,30 @@ using System.Collections.Generic;
 
 namespace CatWorx.BadgeMaker
 {
-  class Program
-{
-  static List<Employee> GetEmployees()
-{
-List<Employee> employees = new List<Employee>();
-while(true) 
-{
-  // Move the initial prompt inside the loop, so it repeats for each employee
-  Console.WriteLine("Enter first name (leave empty to exit): ");
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Do you want to import API data for badges? type yes or no");
+            String response = Console.ReadLine();
 
-  // change input to firstName
-  string firstName = Console.ReadLine();
-  if (firstName == "") 
-  {
-    break;
-  }
-
-  // add a Console.ReadLine() for each value
-  Console.Write("Enter last name: ");
-  string lastName = Console.ReadLine();
-  Console.Write("Enter ID: ");
-  int id = Int32.Parse(Console.ReadLine());
-  Console.Write("Enter Photo URL:");
-  string photoUrl = Console.ReadLine();
-  Employee currentEmployee = new Employee(firstName, lastName, id, photoUrl);
-  employees.Add(currentEmployee);
-  }
-
-  return employees;
-}
-
-
-  static void Main(string[] args) {
-  List<Employee> employees = GetEmployees();
-  Util.PrintEmployees(employees);
-  Util.MakeCSV(employees);
-}
-}
+            if (response == "yes")
+            
+            {
+                List<Employee> employees = PeopleFetcher.GetFromApi();
+                Util.MakeCSV(employees);
+                Util.MakeBadges(employees);
+            }
+            else if (response == "no")
+            {
+                List<Employee> employees = PeopleFetcher.GetEmployees();
+                Util.MakeCSV(employees);
+                Util.MakeBadges(employees);
+            }
+            else 
+            {
+                Console.Write("Invalid Response");
+            }
+        }
+    }
 }
