@@ -1,0 +1,15 @@
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/CatWorx.BadgeMaker.deps.json
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/CatWorx.BadgeMaker.dll
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/ref/CatWorx.BadgeMaker.dll
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/bin/Debug/net5.0/CatWorx.BadgeMaker.pdb
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.dll
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/ref/CatWorx.BadgeMaker.dll
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.pdb
+/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/obj/Debug/net5.0/CatWorx.BadgeMaker.genruntimeconfig.cache
