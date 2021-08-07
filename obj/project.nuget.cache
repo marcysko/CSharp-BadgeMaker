@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MaXZWzLpME9fI5+tJ3qJiW05IisTXqJBJ/YWhnn5AXpjmfD/5seIHbxhPH57+iAaNmH6OWxlai3G8v34llxi/w==",
+  "dgSpecHash": "dn6UlGme/hrXJu154L0xcIaD78+TUq/vbKESj7vpBDHI/hT1LbyWjt+g3vzFpsSwi3bvbBPvVf2iyEdMCjEMrA==",
   "success": true,
   "projectFilePath": "/Users/marciaskousen/Desktop/NewProjects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/marciaskousen/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/marciaskousen/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/marciaskousen/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/marciaskousen/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
