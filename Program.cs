@@ -11,6 +11,7 @@ namespace CatWorx.BadgeMaker
             String response = Console.ReadLine();
 
             if (response == "yes")
+            
             {
                 List<Employee> employees = PeopleFetcher.GetFromApi();
                 Util.MakeCSV(employees);
